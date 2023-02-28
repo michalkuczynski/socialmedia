@@ -1,0 +1,9 @@
+#Lib/
+#Scripts/
+#pyvenf.cfg
+cert.crt
+cert.key
+db.sqlite3
+account/__pycache__
+account/migrations
+bookmarks/__pycache__
